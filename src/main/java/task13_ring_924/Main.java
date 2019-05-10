@@ -1,4 +1,4 @@
-package task_13_ring_924;
+package task13_ring_924;
 
 public class Main {
     public static void main(String[] args) {
