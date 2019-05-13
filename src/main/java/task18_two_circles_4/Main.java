@@ -1,4 +1,4 @@
-package task18_two_circles_4_PENDING;
+package task18_two_circles_4;
 
 import java.util.Scanner;
 
