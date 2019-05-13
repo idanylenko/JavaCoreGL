@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int a = in.nextInt();
-        int b = in.nextInt();
-        int c = in.nextInt();
-        int d = in.nextInt();
+        double a = in.nextDouble();
+        double b = in.nextDouble();
+        double c = in.nextDouble();
+        double d = in.nextDouble();
 
         if (a >= 0 && b >= 0 && c >= 0 && d >= 0) {
             if (a == b && c == d || a == c && b == d || a == d && b == c) {
